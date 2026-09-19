@@ -1,0 +1,6 @@
+{
+  "name": "BharatSynapse AI",
+  "description": "Indigenous Trust-Aware Digital Twin Intelligence Fabric for Critical Infrastructure",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
