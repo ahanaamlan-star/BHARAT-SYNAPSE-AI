@@ -17,6 +17,7 @@ BharatSynapse AI is an architectural prototype that introduces **Data Trust** as
 ---
 
 ## 🧭 Overview
+#LINK-
 
 ### The Problem
 Modern supervisory and control architectures (SCADA, Energy Management Systems, IoT sensor meshes) continuously observe critical infrastructure. Predictive artificial intelligence algorithms ingest these signals to forecast component failure risks, and traditional Digital Twins simulate operating parameters.
